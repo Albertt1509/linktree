@@ -1,3 +1,3 @@
 # linktree
 
-ini hanya cosutme linktree, kodenya gampang tinggal modal html css
+ini hanya cosutme linktree, kodenya gampang tinggal modal html css titik
